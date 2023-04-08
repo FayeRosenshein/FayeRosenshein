@@ -26,9 +26,15 @@ I'm into languages, human and computer. I have a bachelors degree in linguistics
 
 A few of my hobbies are :
 
-Traveling and going to various music events near and far. 
+Cafe hopping! Coffee is my favorite drinks! I love checking out new coffee shop around Denver CO
 
-Please come chat with me to share your coding experiece, challenges in the field or exciting new tech. 
+Smoking Meat! I loved BBQ and have been catering BBQ for the saveral years. My best recipes are smoked brisket, texas style ribs and coleslaw.
+
+Baking! Cookies, Brownies and Bread have been regulars in my house. 
+
+Traveling! My foodieness has been taking me to many places China, Hong Kong, Singapore, Australia and many places the US , I would love to continue to do so in Europe and south America . 
+
+Please come chat with me, share you coding experiece, challenges in the filed or exciting new tech. 
 
 # Tech Stack
 
@@ -36,13 +42,13 @@ Please come chat with me to share your coding experiece, challenges in the field
 
 - back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=flat-circle&logo=nodedotjs)
 
-- front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-lightblue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![React](https://img.shields.io/badge/-React-lightgray?style=flat-circle&logo=React) ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-circle&logo=npm&logoColor=white)
+- front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-lightblue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![React](https://img.shields.io/badge/-React-lightgray?style=flat-circle&logo=React) ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-- use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![github](https://img.shields.io/badge/GitHub-white?style=flat-circle&logo=github&logoColor=blue)
+- tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![github](https://img.shields.io/badge/GitHub-white?style=flat-circle&logo=github&logoColor=blue)
 
 - 💻 database: ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
 
-- 🌱 learning：![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=flat-circle&logo=nodedotjs)
+- 🌱 learning：![express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-circle&logo=express&logoColor=%2361DAFB)
   
 
 > Language usage
