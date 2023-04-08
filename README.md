@@ -1,6 +1,6 @@
 ### Hi there 👋 Faye Rosenshein here
 
-
+<b>Front-End Software Developer from <a href="https://turing.edu/">Turing School of Software & Design</a></b>
 
 
 <!--
@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Patt Sookmark! <img src="https://media.giphy.com/media/W0LESI95kopP6EEtiJ/giphy.gif" width="50">
-<b>Front-End Software Developer from <a href="https://turing.edu/">Turing School of Software & Design</a>
-This is [my personal page!](https://pattpjy.github.io/my-coding-journey)
-</b>
+
 
 
 # About Me
 
-I'm originally from Bangkok Thailand and have been in Colorado for the last 12 years. 
+I'm into languages, human and computer. I have a bachelors degree in linguistics and am getting my certificate in Frontend Development 
 
 A few of my hobbies are :
 
@@ -45,7 +42,7 @@ Please come chat with me, share you coding experiece, challenges in the filed or
 
 - back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=flat-circle&logo=nodedotjs)
 
-- front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-lightblue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![React](https://img.shields.io/badge/-React-lightgray?style=flat-circle&logo=React) ![npm]:https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
+- front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-lightblue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![React](https://img.shields.io/badge/-React-lightgray?style=flat-circle&logo=React) ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 - use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![github](https://img.shields.io/badge/GitHub-white?style=flat-circle&logo=github&logoColor=blue)
 
