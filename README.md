@@ -26,15 +26,9 @@ I'm into languages, human and computer. I have a bachelors degree in linguistics
 
 A few of my hobbies are :
 
-Cafe hopping! Coffee is my favorite drinks! I love checking out new coffee shop around Denver CO
+Traveling near and far and going to various music events 
 
-Smoking Meat! I loved BBQ and have been catering BBQ for the saveral years. My best recipes are smoked brisket, texas style ribs and coleslaw.
-
-Baking! Cookies, Brownies and Bread have been regulars in my house. 
-
-Traveling! My foodieness has been taking me to many places China, Hong Kong, Singapore, Australia and many places the US , I would love to continue to do so in Europe and south America . 
-
-Please come chat with me, share you coding experiece, challenges in the filed or exciting new tech. 
+Please come chat with me to share your coding experiece, challenges in the field, or exciting new tech. 
 
 # Tech Stack
 
@@ -53,10 +47,10 @@ Please come chat with me, share you coding experiece, challenges in the filed or
 
 > Language usage
 <div align="left">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattpjy&layout=compact"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayeRosenshein&layout=compact"/>
 </div>
 
 
 # Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5??style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pattsookmark/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5??style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faye-rosenshein-8ba421242/)
