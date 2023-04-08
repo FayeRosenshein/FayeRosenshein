@@ -42,7 +42,7 @@ Please come chat with me, share you coding experiece, challenges in the filed or
 
 - back-end： ![NodeJS](https://img.shields.io/badge/-NodeJS-gray?style=flat-circle&logo=nodedotjs)
 
-- front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-lightblue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![React](https://img.shields.io/badge/-React-lightgray?style=flat-circle&logo=React) ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+- front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-lightblue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![React](https://img.shields.io/badge/-React-lightgray?style=flat-circle&logo=React) ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-circle&logo=npm&logoColor=white)
 
 - tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![github](https://img.shields.io/badge/GitHub-white?style=flat-circle&logo=github&logoColor=blue)
 
